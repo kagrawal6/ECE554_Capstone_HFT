@@ -1,0 +1,5 @@
+# Cursor IDE plans
+.cursor/plans/
+
+# LaTeX design report (generated from design_specification.md)
+docs/design_report.tex
